@@ -1,1 +1,1 @@
-{"id":1,"content":"うまいうまいごはんです。\r\n\r\n最高です","name":"ごはん1","image_url":"https://github.com/savanakurashi/resources/blob/main/img/items/1.jpg?raw=true","score":3.4,"short_text":"それそれ","sugar":3.4,"created_at":"2022/07/18 01:12:57","updated_at":"2022/07/22 23:07:09"}
+{"id":"1","content":"うまいうまいごはんです。\r\n\r\n最高です","name":"ごはん1","imageUrl":"https://github.com/savanakurashi/resources/blob/main/img/items/1.jpg?raw=true","score":"3.4","shortText":"それそれ","sugar":"3.4","loveReactionCount":"45","createdAt":"2022/07/18 01:12:57","updatedAt":"2022/07/31 16:02:05"}
